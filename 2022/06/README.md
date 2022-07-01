@@ -14,7 +14,7 @@
     * Rainfall Visualisation [code](https://github.com/katerobsau/QUTCDS_Hackathon/tree/main/comparing_extreme_events/rainfall) 
   * Social Media Scraping [(slides)](https://github.com/rladies/meetup-presentations_brisbane/blob/master/2022/06/SocialMediaScraping/SocialMediaScraping.pdf) - Tace Stewart, Lanxi Li
     * Extract Twitter Images [repository](https://github.com/DaisyWatermelon/ExtractTwitterImages)
-  * Road Closures - Peter Tarbit
-  * Vulnerability Index [(slides)](https://github.com/rladies/meetup-presentations_brisbane/blob/master/2022/06/VulnerabilityIndex/20220629_VulnerabilityI_RLadiesHackathon.html) - Dr Catherine Kim
+  * Road Closures [(slides)](https://seacatkim.github.io/RoadClosures/#1) - Peter Tarbit
+  * Vulnerability Index [(slides)](https://seacatkim.github.io/VulnerabilityIndex_preso/#1) - Dr Catherine Kim
   
 [Meetup event](https://www.meetup.com/rladies-brisbane/events/286604612/)
